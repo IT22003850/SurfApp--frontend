@@ -38,6 +38,11 @@
             "backgroundColor": "#000000"
           }
         }
+      ], [
+        "@rnmapbox/maps",
+        {
+          "RNMapboxMapsAccessToken": "pk.eyJ1IjoiaXQyMjAwMzg1MCIsImEiOiJjbWZ4aWdnb20wYjJ1MmtwcGx3eDF0cGthIn0.FUmLtFpw0VWMZJd2BELPGg"
+        }
       ]
     ],
     "experiments": {
